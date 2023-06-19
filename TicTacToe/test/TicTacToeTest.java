@@ -1,3 +1,5 @@
+//tests from JetBrains Acacemy 
+
 import org.assertj.swing.fixture.JButtonFixture;
 import org.assertj.swing.fixture.JLabelFixture;
 import org.assertj.swing.fixture.JMenuItemFixture;
